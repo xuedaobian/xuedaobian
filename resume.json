@@ -1,0 +1,95 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
+  },
+  "avatar": {
+    "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+    "hidden": false
+  },
+  "profile": {
+    "name": "张明辉",
+    "email": "1689359591@qq.com",
+    "mobile": "17376572020",
+    "github": "https://github.com/xuedaobian",
+    "yuque": "https://www.yuque.com/xuedaobian",
+    "workExpYear": "",
+    "positionTitle": "网站开发-前端工程师"
+  },
+  "educationList": [
+    {
+      "edu_time": [
+        "2017.09.01",
+        "2021.06.30"
+      ],
+      "school": "杭州电子科技大学",
+      "major": "计算机科学与技术",
+      "academic_degree": "本科"
+    }
+  ],
+  "workExpList": [
+    {
+      "company_name": "恒生电子",
+      "department_name": "Light云事业部",
+      "work_time": [
+        "2021.08",
+        null
+      ],
+      "work_desc": "1. 担任“开发者大会”活动前端负责人，负责 PC 端与 H5 端的网站开发\r\n2. 参与对外网站从前台到后台再到管理台的全流程开发\r\n3. 参与移动端开发和小程序开发"
+    },
+    {
+      "company_name": "恒生电子",
+      "department_name": "鲸腾网络",
+      "work_time": [
+        "2020.07",
+        "2020.10"
+      ],
+      "work_desc": "前端实习生。使用 Vue 参与开发多个 B 端产品：企业管理台，政府金融检测地图等，有独立完成任务的能力和良好的编码习惯。"
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "HTML 和 CSS",
+      "skill_desc": "",
+      "skill_level": 80
+    },
+    {
+      "skill_name": "JavaScript",
+      "skill_desc": "有较好的JavaScript基本功",
+      "skill_level": 85
+    },
+    {
+      "skill_name": "Vue / 前端工程化",
+      "skill_desc": "大型前端项目经验以及组件库开发经验",
+      "skill_level": 80
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "开发者大会",
+      "project_role": "前端负责人",
+      "project_time": "2021.08 - 2021.10",
+      "project_desc": "公司面向内外部宣传开展的活动，为了推广公司理念和产品技术，为客户与合作伙伴提供了一个技术交流的舞台，设计 PC 和 H5 的开发。",
+      "project_content": "1. 视频播放解决方案的设计 2. 尽力提高网站的浏览体验 3. 大部分的 PC 开发，部分 H5 开发。"
+    },
+    {
+      "project_name": "Light云网站",
+      "project_role": "前端主要开发者",
+      "project_time": "2021.10 - 至今",
+      "project_desc": "Light 云是恒生公司面向企业，面向开发者，面向大学生的一个在线云平台，提供多种在线服务的产品。网站则是帮助目标用户完成步骤来使用体验产品。",
+      "project_content": "1. 前端的改版，优化用户体验 2. 微信支付的引入 3. 增加动态渲染区域 4. webpack 升级"
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "🌱 喜欢逻辑思考，专注于实现让人一步步陷入到无法自拔的流程设计 \n 😈 能力项：沟通协调能力、执行力 \n 自驱型前端工程师，一年大型前端项目开发经验，负责 Light 云网站的开发与维护，参与了 Light 云网站前台、用户控台、网站管理台的流程开发与建设，熟悉网站开发。\n 喜欢逻辑、流程设计，喜欢折腾，对新技术有着极高的兴趣，喜欢探索新的技术，喜欢探索新的产品。"
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}
