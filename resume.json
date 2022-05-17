@@ -33,7 +33,7 @@
   "workExpList": [
     {
       "company_name": "恒生电子",
-      "department_name": "Light云事业部",
+      "department_name": "Light 云事业部",
       "work_time": [
         "2021.08",
         null
@@ -52,16 +52,16 @@
   ],
   "skillList": [
     {
-      "skill_name": "熟悉HTML5,CSS3,ES6",
-      "skill_desc": "熟悉HTML5,CSS3,ES6"
+      "skill_name": "熟悉 HTML5,CSS3",
+      "skill_desc": "熟悉 HTML5,CSS3"
     },
     {
-      "skill_name": "熟练使用Vue全家桶开发",
-      "skill_desc": "有较好的JavaScript基本功"
+      "skill_name": "熟悉使用 ES6",
+      "skill_desc": "熟练使用 ES6"
     },
     {
-      "skill_name": "移动端、小程序开发经验",
-      "skill_desc": "移动端、小程序开发经验"
+      "skill_name": "熟练使用 Vue 全家桶开发",
+      "skill_desc": "熟练使用 Vue 全家桶开发"
     }
   ],
   "projectList": [
@@ -84,7 +84,7 @@
       "project_role": "前端任务负责人",
       "project_time": "2021.10 - 2021.12",
       "project_desc": "作为 Light 云触达用户的一个扩展方向，是内部比赛的预研项目。",
-      "project_content": "\n1. 进行前端基建工作：采用 eslint + prettier 规范代码 ，封装网络请求，采用 vant + 原生语法进行开发。 \n2. 同时，承担项目经理的角色去申请开发资源，协助产品汇报工作进度等。"
+      "project_content": "\n1. 进行前端基建工作：采用 eslint + prettier 规范代码，采用 vant + 原生语法进行开发。 \n2. 同时，承担项目经理的角色去申请开发资源，协助产品汇报工作进度等。"
     },
     {
       "project_name": "疫情紧急项目",
